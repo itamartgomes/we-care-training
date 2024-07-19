@@ -1,0 +1,90 @@
+* {
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 44px 0px 144px 76px;
+}
+
+a {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29.26px;
+    text-align: center;
+    color: #989D9C;
+    cursor: pointer;
+    margin-right: 23px;
+}
+
+.button-header {
+    width: 130px;
+    height: 41px;
+    border-radius: 50px;
+    background: #665AE1;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29.26px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+}
+
+.section1 {
+    display: inline-block;
+}
+
+.section2 {
+    display: inline-block;
+    margin-left: 86px;
+}
+
+img {
+    width: 568px;
+    height: 500px;
+    margin-left: 125px;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: 900;
+    line-height: 121.9px;
+    text-align: left;
+    color: #515151;
+}
+
+h2 {
+    font-size: 58px;
+    font-weight: 500;
+    line-height: 70.7px;
+    text-align: left;
+    color: #515151;
+}
+
+p {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.26px;
+    text-align: justify;
+    color: #848484;
+    width: 515px;
+    margin: 32px 0px 65px;
+}
+
+.button-main {
+    width: 239px;
+    height: 64px;
+    border-radius: 50px;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 34.13px;
+    text-align: center;
+    border: none;
+    background: #ADFF00;
+    color: #000000;
+    cursor: pointer;
+}
